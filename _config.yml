@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Oscar Carrillo"
 title_separator          : "-"
-name                     : "Oscar Carrillo"
+name                     : ""
 description              : "Oscar's web page."
 url                      : https://ocrozo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oscar Carrillo"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Lecturer - Researcher"
   location         : "Lyon, France"
   email            : "ocrozo@gmail.com"
   uri              : "https://ocrozo.github.io"
