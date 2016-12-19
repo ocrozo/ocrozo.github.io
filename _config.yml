@@ -248,7 +248,6 @@ defaults:
       share: true
       related: true
   
-  defaults:
   # _pages
   - scope:
       path: ""
