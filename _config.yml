@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Oscar Carrillo"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Lecturer - Researcher<br/>INSA de Lyon<br/>Laboratoire CITI"
+  bio              : "<b>Lecturer - Researcher</b><br/><a href="http://www.insa-lyon.fr">INSA de Lyon</a><br/><a href="http://www.citi-lab.fr">Laboratoire CITI</a>"
   location         : "Lyon, France"
   email            : "ocrozo@gmail.com"
   uri              : "https://ocrozo.github.io"
@@ -255,3 +255,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      title: false
