@@ -61,8 +61,9 @@ OTHER PUBLICATIONS
 PhD thesis
 ----------
 * Oscar Alberto Carrillo Rozo.
-  {/assets/publis/thesis.pdf}[_Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_]. 
+  [_Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_](/assets/publis/thesis.pdf). 
   PhD thesis, Université de Franche-Comté, 2015.
+
 Research reports 
 ----------------
 * Annie Ressouche, Jean-Yves Tigli, and Oscar Carrillo.
