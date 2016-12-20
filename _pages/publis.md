@@ -14,8 +14,9 @@ ARTICLES IN JOURNALS
 
 CONFERENCES
 ===========
-Internationals
---------------
+
+International
+-------------
 * Samir Chouali, Oscar Carrillo, and Hassan Mountassir. 
   _Specifying System Architecture from SysML Requirements and Component Interfaces_. 
   In Software Architecture (ECSA 2013), pages 348–352, Montpellier, France, 2013.
@@ -37,6 +38,7 @@ French
 
 Talks
 =====
+
 * Oscar Carrillo. 
   _Vérification formelle et incrémentale de spécifications SysML pour la conception de systèmes hétérogènes_. 
   Journée des Doctorants, May 2012.
@@ -59,7 +61,7 @@ OTHER PUBLICATIONS
 PhD thesis
 ----------
 * Oscar Alberto Carrillo Rozo.
-  [/assets/publis/thesis.pdf]{_Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_}. 
+  {/assets/publis/thesis.pdf}[_Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_]. 
   PhD thesis, Université de Franche-Comté, 2015.
 Research reports 
 ----------------
