@@ -6,12 +6,14 @@ title: "Teaching"
 ---
 
 ## INSA DE LYON
+
 ### 2016/2017
 * Cloud IoT
 * Passeport Informatique et Télécommunications (PIT)
 * Systèmes Distribués
 
 ## Université de Savoie - Mont Blanc
+
 ### 2015/2016
 * Algorithmique et Programmation
 * Algorithmique et Structures de Données Complexes
@@ -21,6 +23,7 @@ title: "Teaching"
 * Systèmes d'Exploitation
 
 ## Université de Franche-Comté
+
 ### 2014/2015
 * Algorithmique Combinatoire
 * Analyse et Modélisation de l'Information
