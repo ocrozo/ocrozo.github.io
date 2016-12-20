@@ -5,18 +5,18 @@ author_profile: true
 title: "Publications"
 ---
 
-ARTICLES IN JOURNALS
-====================
+##ARTICLES IN JOURNALS
+
 * Oscar Carrillo, Samir Chouali, and Hassan Mountassir. 
   _Formalizing and verifying compatibility and consistency of SysML blocks_. 
   In ACM SIGSOFT Software Engineering Notes (UML-FM 2012), volume 37, pages 1–8, 
   Paris, France, 2012. ACM.
 
-CONFERENCES
-===========
+##CONFERENCES
 
-International
--------------
+
+###International
+
 * Samir Chouali, Oscar Carrillo, and Hassan Mountassir. 
   _Specifying System Architecture from SysML Requirements and Component Interfaces_. 
   In Software Architecture (ECSA 2013), pages 348–352, Montpellier, France, 2013.
@@ -27,8 +27,8 @@ International
   _Towards Validated Composition in Component-Based Adaptive Middleware_. 
   In Software Composition, pages 165–180, Switzerland, 2011. Springer-Verlag Berlin Heidelberg.
 
-French
-------
+###French
+
 * Oscar Carrillo, Samir Chouali, and Hassan Mountassir. 
   _Vérification de la consistence et de la compatibilité entre blocs SysML_. 
   In Conférence en Architectures Logicielles (CAL 2012), Montpellier, France, 2012.
@@ -36,8 +36,8 @@ French
   _Modélisation Incrémentale d’une Architecture de Système Satisfaisant des Exigences Fonctionnelles SysML_. 
   In Conférence en Architectures Logicielles (CAL 2014), Paris, France, 2014.
 
-Talks
-=====
+##Talks
+
 
 * Oscar Carrillo. 
   _Vérification formelle et incrémentale de spécifications SysML pour la conception de systèmes hétérogènes_. 
@@ -55,17 +55,17 @@ Talks
   _Vérification formelle et incrémentale de spécifications SysML pour la conception de systèmes hétérogènes_. 
   Laboratoire LAMA de l’Université de Savoie, October 2015.
 
-OTHER PUBLICATIONS
-==================
+##OTHER PUBLICATIONS
 
-PhD thesis
-----------
+
+###PhD thesis
+
 * Oscar Alberto Carrillo Rozo.
   [_Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_](/assets/publis/thesis.pdf). 
   PhD thesis, Université de Franche-Comté, 2015.
 
-Research reports 
-----------------
+###Research reports 
+
 * Annie Ressouche, Jean-Yves Tigli, and Oscar Carrillo.
   _Composition and Formal Validation in Reactive Adaptive Middleware_. 
   Technical Report RR-7541, INRIA, Sophia-Antipolis, 2011.
