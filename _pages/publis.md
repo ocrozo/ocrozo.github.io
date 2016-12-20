@@ -6,7 +6,7 @@ title: "Publications"
 ---
 
 ARTICLES IN JOURNALS
-================================
+====================
 * Oscar Carrillo, Samir Chouali, and Hassan Mountassir. 
   _Formalizing and verifying compatibility and consistency of SysML blocks_. 
   In ACM SIGSOFT Software Engineering Notes (UML-FM 2012), volume 37, pages 1–8, 
