@@ -2,6 +2,7 @@
 permalink: /
 layout: single
 author_profile: true
+title: "About me"
 ---
 
 Lecturer and researcher of computer science at [INSA de Lyon](http://www.insa-lyon.fr), France. I'm a research member of the [CITI](http://www.citi-lab.fr) laboratory at the [Dynamid](http://dynamid.citi-lab.fr) team.  
