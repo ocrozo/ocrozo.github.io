@@ -34,6 +34,10 @@ title: "Publications"
 * Oscar Carrillo, Samir Chouali, and Hassan Mountassir. 
   _Modélisation Incrémentale d’une Architecture de Système Satisfaisant des Exigences Fonctionnelles SysML_. 
   In Conférence en Architectures Logicielles (CAL 2014), Paris, France, 2014.
+* Oscar Carrillo, Nicolas Stouls, Raphael Laurent, Nikolai Plokhoi, Qifan Zhou, Julien Ponge, and Frédéric Le Mouël. 
+  _Hardened Golo : pour augmenter le niveau de confiance en un code Golo_. 
+  In AFADL 2017, Montpellier, France, 2017.
+
 
 ## Talks
 

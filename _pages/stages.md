@@ -7,6 +7,14 @@ title: "Internships"
 
 ## INSA de Lyon
 
+### 2017/2018
+* Guido di Lauro:  
+  _Adding jUnit test support to HardenedGolo_  
+  Advisors: Oscar Carrillo and Nicolas Stouls
+* Noah Rossignol:  
+  _Automatic Configuration For Network Booting Raspberry Pi Devices_  
+  Advisor: Oscar Carrillo
+
 ### 2016/2017
 
 * Nikolai Plokhoi:  

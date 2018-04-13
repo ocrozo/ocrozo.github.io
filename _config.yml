@@ -11,8 +11,10 @@ title                    : "Oscar Carrillo"
 title_separator          : "-"
 name                     : "Oscar Carrillo"
 description              : "Oscar's web page."
-url                      : https://ocrozo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : https://ocrozo.github.io/
+baseurl                  :  # the subpath of your site, e.g. "/blog"
+# url                      : http://perso.citi-lab.fr/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : /ocarrill # the subpath of your site, e.g. "/blog"
 repository               : ocrozo/ocrozo.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
@@ -82,9 +84,9 @@ analytics:
 author:
   name             : "Oscar Carrillo"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "<b>Lecturer - Researcher</b><br><a href='http://www.insa-lyon.fr'>INSA de Lyon</a><br><a href='http://www.citi-lab.fr'>Laboratoire CITI</a>"
+  bio              : "<b>Associate Professor</b><br><a href='http://www.cpe.fr'>CPE Lyon</a><br><b>Researcher</b><br><a href='http://www.citi-lab.fr'>CITI Lab - INSA Lyon</a>"
   location         : "Lyon, France"
-  email            : "ocrozo@gmail.com"
+  email            : "oscar.carrillo@cpe.fr"
   uri              : "http://perso.citi.insa-lyon.fr/ocarrill"
   bitbucket        :
   codepen          :
