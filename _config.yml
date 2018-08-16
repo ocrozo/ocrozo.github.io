@@ -14,7 +14,7 @@ description              : "Oscar's web page."
 url                      : https://ocrozo.github.io/
 baseurl                  :  # the subpath of your site, e.g. "/blog"
 # url                      : http://perso.citi-lab.fr/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-# baseurl                  : /ocarrill # the subpath of your site, e.g. "/blog"
+baseurl                  : /ocarrill # the subpath of your site, e.g. "/blog"
 repository               : ocrozo/ocrozo.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
