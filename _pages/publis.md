@@ -65,7 +65,7 @@ title: "Publications"
 
 * Oscar Alberto Carrillo Rozo.
   _Formal and Incremental Verification of SysML Specifications for the Design of Component-Based Systems_. 
-  PhD thesis, Université de Franche-Comté, 2015. ([pdf version](/assets/publis/thesis.pdf), [slides](/assets/publis/slides.pdf)).
+  PhD thesis, Université de Franche-Comté, 2015. ([pdf version]({{ site.url }}{{ site.baseurl}}/assets/publis/thesis.pdf), [slides]({{ site.url }}{{ site.baseurl}}/assets/publis/slides.pdf)).
 
 ### Research reports 
 
