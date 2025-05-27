@@ -86,10 +86,10 @@ analytics:
 author:
   name             : "Oscar Carrillo"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "<b>Associate Professor</b><br><a href='http://www.cpe.fr'>CPE Lyon</a><br><b>Researcher</b><br><a href='http://www.citi-lab.fr'>CITI Lab - INSA Lyon</a>"
+  bio              : "<b>Associate Professor</b><br><a href='https://www.cpe.fr'>CPE Lyon</a><br><b>Researcher</b><br><a href='https://www.citi-lab.fr'>CITI Lab - INSA Lyon</a>"
   location         : "Lyon, France"
   email            : "oscar.carrillo@cpe.fr"
-  uri              : "http://perso.citi.insa-lyon.fr/ocarrill"
+  uri              : "https://perso.citi.insa-lyon.fr/ocarrill"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -104,7 +104,7 @@ author:
   linkedin         : "ocrozo"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
   twitter          : "ocrozo"
@@ -132,6 +132,7 @@ exclude:
   - Capfile
   - CHANGELOG
   - config
+  - Dockerfile
   - Gemfile
   - Gruntfile.js
   - gulpfile.js
@@ -174,14 +175,14 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
@@ -231,7 +232,7 @@ tag_archive:
 
 
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
